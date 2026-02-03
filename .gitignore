@@ -1,0 +1,10 @@
+# Compiled executables
+*.exe
+*.out
+
+# VSCode settings
+.vscode/
+
+# Build artifacts
+*.o
+*.obj
