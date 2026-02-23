@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : OverloadingtheAssignmentOperator.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Assignment operator overloading.
-//============================================================================
-
 #include <iostream>
 #include <string>
 

@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : Overloading the Left Bit Shift Operator.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Overloading the left bit shift (for printing). 
-//============================================================================
-
 #include <iostream>
 #include <string>
 
