@@ -56,6 +56,18 @@ Practice programs and coding challenges from a comprehensive C++ learning journe
   - `ArrayStack.h` & `ArrayStackProgram.cpp` - Stack using arrays
   - `TemplatesArrayStack.cpp` - Template-based stack
 
+### C++11 Features
+
+- **C++11Features/**
+  - `TheAutoKeyword.cpp` - Type inference using `auto`
+  - `DecltypeAndTypeid.cpp` - Type deduction and runtime type information
+  - `EnhancedForLoop.cpp` - Range-based for loops
+  - `NestedTemplateClasses.cpp` - Nested template class usage
+  - `ring.h` - Ring buffer template header
+- **C++11Features/RingBuffer/**
+  - `main.cpp` - Ring buffer usage demo
+  - `ring.h` - Ring buffer implementation
+
 ### STL (Standard Template Library)
 
 - **STL(Standard Template Library)/**
